@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61d0108e1f9f172a7e1f4c62"
+  },
+  "ID": "1",
+  "Name": "Zahir",
+  "Contact no": "1792",
+  "EmployeeID": "1"
+},{
+  "_id": {
+    "$oid": "61d010b51f9f172a7e1f4c64"
+  },
+  "ID": "2",
+  "Name": "Fatima",
+  "Contact no": "148",
+  "EmployeeID": "2"
+},{
+  "_id": {
+    "$oid": "61d010d41f9f172a7e1f4c66"
+  },
+  "ID": "3",
+  "Name": "Noor",
+  "Contact no": "506",
+  "EmployeeID": "3"
+},{
+  "_id": {
+    "$oid": "61d010f01f9f172a7e1f4c68"
+  },
+  "ID": "4",
+  "Name": "Qasim",
+  "Contact no": "097",
+  "EmployeeID": "4"
+}]

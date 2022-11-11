@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61d0153d1f9f172a7e1f4c9d"
+  },
+  "Name": "Kumail",
+  "Contact no": "1245",
+  "EmployeeID": "1"
+},{
+  "_id": {
+    "$oid": "61d015571f9f172a7e1f4c9f"
+  },
+  "Name": "khizer",
+  "Contact no": "999",
+  "EmployeeID": "2"
+},{
+  "_id": {
+    "$oid": "61d015821f9f172a7e1f4ca1"
+  },
+  "Name": "khurram",
+  "Contact no": "476",
+  "EmployeeID": "3"
+},{
+  "_id": {
+    "$oid": "61d015971f9f172a7e1f4ca3"
+  },
+  "Name": "moiz",
+  "Contact no": "3645",
+  "EmployeeID": "4"
+}]

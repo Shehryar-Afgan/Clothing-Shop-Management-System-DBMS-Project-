@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61cf565fa129c7568a0ee1bf"
+  },
+  "colour": "black",
+  "size": "large",
+  "type": "jeans",
+  "ProductID": "1"
+},{
+  "_id": {
+    "$oid": "61cf5683a129c7568a0ee1c1"
+  },
+  "colour": "white",
+  "size": "medium",
+  "type": "cotton",
+  "ProductID": "2"
+},{
+  "_id": {
+    "$oid": "61cf56b0a129c7568a0ee1c3"
+  },
+  "colour": "blue",
+  "size": "small",
+  "type": "legging",
+  "ProductID": "3"
+},{
+  "_id": {
+    "$oid": "61cf56cea129c7568a0ee1c5"
+  },
+  "colour": "red",
+  "size": "extra large",
+  "type": "dress pant",
+  "ProductID": "4"
+}]

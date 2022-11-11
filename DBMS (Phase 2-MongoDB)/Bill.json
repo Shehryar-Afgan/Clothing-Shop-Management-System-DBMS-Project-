@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "61cf57bca129c7568a0ee1c9"
+  },
+  "Total": 1000,
+  "ID": "1",
+  "method": "cash",
+  "CashierID": "1",
+  "CustmerID": "1"
+},{
+  "_id": {
+    "$oid": "61cf5808a129c7568a0ee1cb"
+  },
+  "Total": 2000,
+  "ID": "2",
+  "method": "paypal",
+  "CashierID": "2",
+  "CustmerID": "2"
+},{
+  "_id": {
+    "$oid": "61cf582ca129c7568a0ee1cd"
+  },
+  "Total": 3000,
+  "ID": "3",
+  "method": "easypaisa",
+  "CashierID": "3",
+  "CustmerID": "3"
+},{
+  "_id": {
+    "$oid": "61cf5863a129c7568a0ee1d0"
+  },
+  "Total": 4000,
+  "ID": "4",
+  "method": "credit card",
+  "CashierID": "4",
+  "CustmerID": "4"
+}]

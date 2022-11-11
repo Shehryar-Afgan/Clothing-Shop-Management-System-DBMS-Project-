@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61cf553baa96b8e31e0f2569"
+  },
+  "colour": "black",
+  "size": "large",
+  "type": "high neck",
+  "ProductID": "1"
+},{
+  "_id": {
+    "$oid": "61cf5557aa96b8e31e0f256b"
+  },
+  "colour": "white",
+  "size": "medium",
+  "type": "round neck",
+  "ProductID": "2"
+},{
+  "_id": {
+    "$oid": "61cf558daa96b8e31e0f256d"
+  },
+  "colour": "blue",
+  "size": "small",
+  "type": "title neck",
+  "ProductID": "3"
+},{
+  "_id": {
+    "$oid": "61cf55adaa96b8e31e0f256f"
+  },
+  "colour": "red",
+  "size": "extra large",
+  "type": "v shape",
+  "ProductID": "4"
+}]

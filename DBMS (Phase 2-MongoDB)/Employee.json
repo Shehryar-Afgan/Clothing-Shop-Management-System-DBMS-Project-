@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61d00f821f9f172a7e1f4c4e"
+  },
+  "ID": "1",
+  "Shift": "Morning",
+  "Contact no": "0321",
+  "LoginID": "1"
+},{
+  "_id": {
+    "$oid": "61d00fa71f9f172a7e1f4c50"
+  },
+  "ID": "2",
+  "Shift": "evening",
+  "Contact no": "0423",
+  "LoginID": "2"
+},{
+  "_id": {
+    "$oid": "61d00fbf1f9f172a7e1f4c52"
+  },
+  "ID": "3",
+  "Shift": "morning",
+  "Contact no": "0333",
+  "LoginID": "3"
+},{
+  "_id": {
+    "$oid": "61d00fda1f9f172a7e1f4c54"
+  },
+  "ID": "4",
+  "Shift": "evening",
+  "Contact no": "0310",
+  "LoginID": "4"
+}]

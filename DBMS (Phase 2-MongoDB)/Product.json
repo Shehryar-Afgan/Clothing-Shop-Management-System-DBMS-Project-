@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61d0145f1f9f172a7e1f4c8e"
+  },
+  "ID": "1",
+  "Name": "xyz",
+  "Status": "available"
+},{
+  "_id": {
+    "$oid": "61d0147d1f9f172a7e1f4c90"
+  },
+  "ID": "2",
+  "Name": "abc",
+  "Status": "available"
+},{
+  "_id": {
+    "$oid": "61d0148c1f9f172a7e1f4c92"
+  },
+  "ID": "3",
+  "Name": "pqr",
+  "Status": "available"
+},{
+  "_id": {
+    "$oid": "61d014af1f9f172a7e1f4c94"
+  },
+  "ID": "4",
+  "Name": "ere",
+  "Status": "out of stock"
+}]
